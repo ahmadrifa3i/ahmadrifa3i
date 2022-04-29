@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center"> Hi 👋, I'm <a href="https://www.facebook.com/ahmad.alrifai.92102">ahmad al rifai!</a></h1>
+<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
-<!--
-**ahmadrifa3i/ahmadrifa3i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 &ensp;I’m currently working on my reelteck!
+- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with other content creators
+- 🗿 &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
+- ⚡ &ensp;Fun fact: I love reading & podcasts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+<br />
+<br />
+
+
+
+<br />
+<br />
+
+
+
+
+
+
+
